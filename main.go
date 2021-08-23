@@ -35,6 +35,13 @@ import (
 	"google.golang.org/grpc"
 )
 
+func connect()  {
+	user := "LKHR4SC6FKJSFGWVBC62K"
+	password:= "nhTAOa5ALFJEOLTDZyXVnuTLKEIzBD/6LUqDJYppO" // Sensitive
+  
+}
+
+
 const (
 	port            = "8080"
 	defaultCurrency = "USD"
